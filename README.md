@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Conversion Window](./practice/sql/campaign-conversion-window) | SQL | Hard | 2026-09-21 |
 | [Quarters Apart](./practice/sql/quarters-apart) | SQL | Hard | 2026-09-19 |
 | [The Quiet Alarms](./practice/sql/the-quiet-alarms) | SQL | Medium | 2026-09-19 |
 | [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-09-19 |

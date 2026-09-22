@@ -4,15 +4,9 @@
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/above_average_interactions)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-09-05 |
-| Accepted | on the first submission |
-| Time | 17 min |
-| Hints | none |
-| Query complexity | O(n²), optimal |
-| Concepts | Counting, Grouping, Group Filtering, Query Basics, Self-Join, Scalar Subquery, Sums & Averages, Filtering |
+| Query complexity | O(n²) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).

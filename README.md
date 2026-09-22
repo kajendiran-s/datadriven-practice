@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User Session Roster](./practice/sql/user-session-roster) | SQL | Easy | 2026-09-06 |
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-09-06 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-09-05 |
 | [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-09-04 |

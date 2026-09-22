@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Time Served](./practice/sql/time-served) | SQL | Hard | 2026-09-09 |
 | [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-09-09 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-09-09 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-09-08 |

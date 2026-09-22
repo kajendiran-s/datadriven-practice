@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Spending by Account Status](./practice/sql/average-spending-by-account-status) | SQL | Medium | 2026-09-06 |
 | [User Session Roster](./practice/sql/user-session-roster) | SQL | Easy | 2026-09-06 |
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-09-06 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-09-05 |

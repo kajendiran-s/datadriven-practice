@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-09-04 |
 | [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-09-04 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-09-04 |
 | [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-09-02 |

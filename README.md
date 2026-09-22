@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-08-28 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-08-28 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-08-28 |
 | [Content Viewer Penetration](./practice/sql/content-viewer-penetration) | SQL | Easy | 2026-08-28 |

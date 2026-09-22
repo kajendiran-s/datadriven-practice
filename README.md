@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-09-04 |
 | [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-09-02 |
 | [Buyers Who Never Browsed](./practice/sql/buyers-who-never-browsed) | SQL | Easy | 2026-09-02 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-09-01 |

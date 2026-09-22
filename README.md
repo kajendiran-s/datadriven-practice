@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Seventh Day](./practice/sql/the-seventh-day) | SQL | Medium | 2026-09-18 |
 | [Events by Month Across Years](./practice/sql/events-by-month-across-years) | SQL | Easy | 2026-09-18 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-09-18 |
 | [Chain of Command](./practice/sql/chain-of-command) | SQL | Hard | 2026-09-17 |

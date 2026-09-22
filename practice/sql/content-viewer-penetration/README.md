@@ -4,15 +4,9 @@
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/content_viewer_penetration)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-08-28 |
-| Accepted | on the 3rd submission |
-| Time | 11 min |
-| Hints | none |
-| Query complexity | O(n), optimal |
-| Concepts | Counting, Distinct Counting, Deduplication, Outer Joins, Query Basics |
+| Query complexity | O(n) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).

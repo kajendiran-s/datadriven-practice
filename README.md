@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-09-18 |
 | [Chain of Command](./practice/sql/chain-of-command) | SQL | Hard | 2026-09-17 |
 | [DQ Score Spread](./practice/sql/dq-score-spread) | SQL | Medium | 2026-09-17 |
 | [The Path Not Taken](./practice/sql/the-path-not-taken) | SQL | Hard | 2026-09-10 |

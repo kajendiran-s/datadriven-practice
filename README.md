@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above Category Average](./practice/sql/above-category-average) | SQL | Easy | 2026-09-07 |
 | [The Ninety-Day Comeback](./practice/sql/the-ninety-day-comeback) | SQL | Hard | 2026-09-06 |
 | [The Blind Spot](./practice/sql/the-blind-spot) | SQL | Medium | 2026-09-06 |
 | [Average Spending by Account Status](./practice/sql/average-spending-by-account-status) | SQL | Medium | 2026-09-06 |

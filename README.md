@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Proof of Presence](./practice/sql/proof-of-presence) | SQL | Medium | 2026-09-22 |
 | [High-Rated In-Stock Percentage](./practice/sql/high-rated-in-stock-percentage) | SQL | Easy | 2026-09-22 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-09-22 |
 | [The Words That Page Us](./practice/sql/the-words-that-page-us) | SQL | Hard | 2026-09-21 |

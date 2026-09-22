@@ -1,0 +1,1 @@
+select platform, round(1.0*sum(case when status='delivered' and opened = 1 then 1 else 0 end)/sum(case when status='delivered' then 1 else 0 end),2) as confirmation_rate from push_notifs_2fa group by 1

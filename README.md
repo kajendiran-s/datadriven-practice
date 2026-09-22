@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-09-08 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-07 |
 | [Above Category Average](./practice/sql/above-category-average) | SQL | Easy | 2026-09-07 |
 | [The Ninety-Day Comeback](./practice/sql/the-ninety-day-comeback) | SQL | Hard | 2026-09-06 |

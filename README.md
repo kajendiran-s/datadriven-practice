@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Words That Page Us](./practice/sql/the-words-that-page-us) | SQL | Hard | 2026-09-21 |
 | [Campaign Conversion Window](./practice/sql/campaign-conversion-window) | SQL | Hard | 2026-09-21 |
 | [Quarters Apart](./practice/sql/quarters-apart) | SQL | Hard | 2026-09-19 |
 | [The Quiet Alarms](./practice/sql/the-quiet-alarms) | SQL | Medium | 2026-09-19 |

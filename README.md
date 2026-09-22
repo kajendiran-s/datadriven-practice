@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Viewer Penetration](./practice/sql/content-viewer-penetration) | SQL | Easy | 2026-08-28 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-08-28 |
 
 <!-- datadriven:index:end -->

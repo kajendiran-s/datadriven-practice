@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Click Rate](./practice/sql/campaign-click-rate) | SQL | Medium | 2026-09-19 |
 | [First Light](./practice/sql/first-light) | SQL | Medium | 2026-09-18 |
 | [The Seventh Day](./practice/sql/the-seventh-day) | SQL | Medium | 2026-09-18 |
 | [Events by Month Across Years](./practice/sql/events-by-month-across-years) | SQL | Easy | 2026-09-18 |

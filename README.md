@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Path Not Taken](./practice/sql/the-path-not-taken) | SQL | Hard | 2026-09-10 |
 | [Fault Lines](./practice/sql/fault-lines) | SQL | Medium | 2026-09-10 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-09-09 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-09-09 |

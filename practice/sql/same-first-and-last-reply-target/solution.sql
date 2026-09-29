@@ -1,0 +1,2 @@
+with month as (select *, strftime('%Y-%m', sent_at) as msg_month from chat_msgs where reply_to is not null)
+select distinct channel, msg_month, first_value(reply_to) over(partition by channel, msg_month order by sent_at asc) as first_recipient, last_value(reply_to) over(partition by channel, msg_month order by sent_at asc rows between current row and unbounded following) as last_recipient from month

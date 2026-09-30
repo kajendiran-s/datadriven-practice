@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Spending Velocity](./practice/sql/spending-velocity) | SQL | Medium | 2026-09-30 |
 | [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-09-30 |
 | [Same First and Last Reply Target](./practice/sql/same-first-and-last-reply-target) | SQL | Medium | 2026-09-29 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-09-29 |

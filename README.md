@@ -12,7 +12,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 | [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-09-30 |
 | [Same First and Last Reply Target](./practice/sql/same-first-and-last-reply-target) | SQL | Medium | 2026-09-29 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-09-29 |
-| [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-09-29 |
+| [Above the Fold](./practice/sql/above-the-fold) | SQL | Medium | 2026-09-29 |
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-09-28 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-09-23 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-09-23 |

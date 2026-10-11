@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Severity](./practice/sql/alert-severity) | SQL | Hard | 2026-10-11 |
 | [After the Handshake](./practice/sql/after-the-handshake) | SQL | Medium | 2026-10-01 |
 | [Spending Velocity](./practice/sql/spending-velocity) | SQL | Medium | 2026-09-30 |
 | [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-09-30 |

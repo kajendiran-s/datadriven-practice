@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/open_heath_3961), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Below the Peaks](./practice/sql/below-the-peaks) | SQL | Hard | 2026-10-15 |
 | [Point of Entry](./practice/sql/point-of-entry) | SQL | Hard | 2026-10-14 |
 | [Alert Severity](./practice/sql/alert-severity) | SQL | Hard | 2026-10-11 |
 | [After the Handshake](./practice/sql/after-the-handshake) | SQL | Medium | 2026-10-01 |
